@@ -11,16 +11,16 @@ public class LockedMe
 	
 	public static void displayMenu()
 	   {
-		   System.out.println("******************************************");
-		   System.out.println("\tWelcome to LockedMe.com secure app");
-		   System.out.println("\tDeveloped By : Harsh Pawar");
-		   System.out.println("******************************************");
-		   System.out.println("\t1 Display all files");
-		   System.out.println("\t2 Add a new file ");
-		   System.out.println("\t3 Delete a file");
-		   System.out.println("\t4 Search file");
-		   System.out.println("\t5 Exit");
-		   System.out.println("******************************************");
+		   System.out.println("$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$");
+		   System.out.println("Welcome to Locked me a digital secure");
+		   System.out.println("Developed by Mr Harsh pawar");
+		   System.out.println("$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$");
+		   System.out.println("\t1. Display all files");
+		   System.out.println("\t2. Add a new file ");
+		   System.out.println("\t3. Delete a file");
+		   System.out.println("\t4. Search  file");
+		   System.out.println("\t5. Exit");
+		   System.out.println("$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$");
 		   
 	   }
 public static void getAllFiles ()
